@@ -39,3 +39,5 @@ public class Program
 
 //source
 // https://www.c-sharpcorner.com/UploadFile/85ed7a/dependency-injection-in-C-Sharp/
+
+// https://dotnettutorials.net/lesson/dependency-injection-design-pattern-csharp/#:~:text=The%20Dependency%20Injection%20Design%20Pattern%20in%20C%23%20is%20a%20process,the%20dependencies%20between%20the%20objects.
